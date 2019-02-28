@@ -18,8 +18,8 @@ him find this number.
 
 ## Sample
 
-Sample input:             
-1                         
+Sample input:
+1
 0
 1000
 Sample output: 190
