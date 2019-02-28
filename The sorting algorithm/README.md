@@ -22,10 +22,12 @@ Sample input: <br>
 1<br>
 0<br>
 1000<br>
-Sample output: 
-190<br>
+Sample output:<br> 
+190
 
-Sample input             Sample output
-10                        79711685664
-55
-20008973878324
+Sample input:<br>            
+10 <br>                         
+55<br>  
+20008973878324<br>  
+Sample output:<br>  
+79711685664
