@@ -25,9 +25,9 @@ Sample input: <br>
 Sample output:<br> 
 190
 
-Sample input:<br>            
-10<br>                         
-55<br>  
-20008973878324<br>  
-Sample output:<br>  
+Sample input:<br>
+10<br>
+55<br>
+20008973878324<br>
+Sample output:<br>
 79711685664
