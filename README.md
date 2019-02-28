@@ -1,1 +1,2 @@
-# Grades-calculator
+# 
+Praticing algoritm problems
