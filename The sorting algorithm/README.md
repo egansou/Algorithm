@@ -18,11 +18,12 @@ him find this number.
 
 ## Sample
 
-Sample input:
-1
-0
-1000
-Sample output: 190
+Sample input: <br>
+1<br>
+0<br>
+1000<br>
+Sample output: 
+190<br>
 
 Sample input             Sample output
 10                        79711685664
