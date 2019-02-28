@@ -1,2 +1,2 @@
 # 
-Praticing algoritm problems
+Praticing algorithm problems
