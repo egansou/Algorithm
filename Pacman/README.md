@@ -11,6 +11,8 @@ of the grid are blocked, i.e., the Pac-Man cannot pass through these nodes. Your
 report the number of distinct paths from (0, 0) to (w, h) that do not pass through any blocked
 nodes.
 
+![alt text](https://github.com/egansou/Algorithm/blob/master/Pacman/Pac%20Man.png)
+
 ## Input
 • The first line of the input contains integers w and h (1 ≤ w, h ≤ 100).
 • The second line of the input contains n, the number of blocks. (0 ≤ n ≤ w · h)
@@ -32,7 +34,7 @@ Sample input:<br>
 3 2<br>
 3 3<br>
 Sample output:<br>
-4<br>
+4<br><br>
 Sample input:<br>
 100 100 <br>
 1<br>
