@@ -24,7 +24,7 @@ ith node. This means each string is either “*”, “+”, or an integer x (1 
 ## Sample
 Sample input:<br>
 7 <br>
-* 10 + * 10 10 10<br>
+*10 + * 10 10 10<br>
 1 3<br>
 3 2<br>
 5 3<br>
