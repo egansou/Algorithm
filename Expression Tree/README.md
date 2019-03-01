@@ -19,7 +19,7 @@ ith node. This means each string is either “*”, “+”, or an integer x (1 
 (1 ≤ i, j ≤ n) denoting that the ith node is connected to the jth node.
 
 ## Output
-• Print the solution of the tree expression mod 1016
+• Print the solution of the tree expression mod 10^16
 
 ## Sample
 Sample input:<br>
