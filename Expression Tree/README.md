@@ -5,6 +5,7 @@ evaluated by applying the operator at the root to the values obtained by recursi
 children. For example the tree in the figure below corresponds to expression<br>
 sum(sum(3, 10, 7), product(5, 10), 4) = sum(20, 50, 4) = 74
 
+![alt text](https://github.com/egansou/Algorithm/blob/master/Expression%20Tree/Tree.png)
 
 Assume that sum(x) = product(x) = x, i.e., if there is only one operand, by applying some or
 product operators, we get the same number. Given an expression tree in the input, evaluate it and
